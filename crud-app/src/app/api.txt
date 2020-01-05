@@ -1,0 +1,11 @@
+sagar@grandhyper.com
+12345
+
+
+
+[10:59 AM, 1/5/2020] +91 78735 11900: 
+http://192.168.25.17:8080/OutBoundZEL/loginUserJSON?username=sagar@grandhyper.com&password=12345
+[10:59 AM, 1/5/2020] +91 78735 11900: 192.168.25.17
+[11:00 AM, 1/5/2020] +91 78735 11900: http://localhost:8080/OutBoundZEL/getUserLists?mtoken=sagar@grandhypercom4b4117c984d84e35b4e3b4b23211645b
+[11:12 AM, 1/5/2020] +91 78735 11900: http://localhost:8080/OutBoundZEL/saveMongoUser?name=sudhir&emailId=sudhir@gmail.com&contactNumber=1234554321&password=12345
+[11:16 AM, 1/5/2020] +91 78735 11900: http://localhost:8080/OutBoundZEL/deleteUser?contactNumber=1234554321&mtoken=sagar@grandhypercom61ff2893ce034bbab09dd30637c82111
