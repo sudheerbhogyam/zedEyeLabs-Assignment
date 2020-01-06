@@ -4,7 +4,6 @@ let app = express();
 let bodyparser = require("body-parser");
 const cors = require("cors");
 let jwt = require('jsonwebtoken');
-//const jwt = require("jsonwebtoken");
 
 app.use(bodyparser.json());
 app.use(bodyparser.urlencoded({

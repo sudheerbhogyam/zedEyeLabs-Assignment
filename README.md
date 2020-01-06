@@ -1,5 +1,5 @@
 # zedEyeLabs-Assignment
-
+### To run the project Install node modules in both frontend and backend
 ### 1. Login Page
 ![Login Screen](UI-Screens/login.png)
 ### 2. Register Page
